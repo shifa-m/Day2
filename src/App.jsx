@@ -6,7 +6,7 @@ import Header from './Components/Section3/Header'
 
 const App = () => {
   return (
-    <div className='bg-black'>
+    <div className='bg-black bg-[url(https://images.pexels.com/photos/33715742/pexels-photo-33715742.jpeg)] bg-cover bg-center overflow-x-hidden overflow-y-hidden'>
       <Home/>
       <Content/>
       <Header/>

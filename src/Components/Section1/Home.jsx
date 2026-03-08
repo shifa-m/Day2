@@ -6,7 +6,7 @@ import Left from './Left'
 const Home = () => {
   return (
     <div className='h-screen w-full  '>
-      <div className='h-full w-full bg-[url(https://images.pexels.com/photos/29788906/pexels-photo-29788906.jpeg)] bg-cover bg-center'>
+      <div className='h-full w-full '>
         <Navbar />
         <div className='flex  h-[85%]'>
           <Right />
@@ -19,3 +19,7 @@ const Home = () => {
 }
 
 export default Home
+
+
+// https://images.pexels.com/photos/29788906/pexels-photo-29788906.jpeg
+// https://images.pexels.com/photos/29818711/pexels-photo-29818711.jpeg
