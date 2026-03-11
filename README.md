@@ -1,16 +1,33 @@
-# React + Vite
+# React + Vite + Tailwind CSS Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a frontend UI implementation built using **React (Vite) and Tailwind CSS**.  
+The main goal of this project is to practice modern frontend development and responsive UI design.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
 
-## React Compiler
+## 💡 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Component-based UI structure
+- Props used for passing data between components
+- Tailwind CSS utility-based styling
+- Fully responsive layout for different screen sizes
+- Clean and organized project structure
 
-## Expanding the ESLint configuration
+## 📚 What I Learned
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Setting up a React project using Vite
+- Building reusable UI components
+- Using props for component communication
+- Styling interfaces using Tailwind CSS
+- Creating responsive web layouts
+
+## 🔗 Repository
+
+https://github.com/shifa-m/Day2
